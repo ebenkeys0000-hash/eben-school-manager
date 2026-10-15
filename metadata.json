@@ -1,0 +1,6 @@
+{
+  "name": "Eben School Manager",
+  "description": "Plateforme SaaS multi-tenant de gestion scolaire, comptabilité, scolarité et bulletins pour les établissements privés au Bénin et en Afrique de l'Ouest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
